@@ -1,0 +1,62 @@
+23:50:21.006 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:50:22.907 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:50:34.213 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:50:34.217 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:50:36.032 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:50:36.038 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:50:47.334 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:54:32.217 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing class\SeleniumWebDriver\OpencartV121\master.xml
+
+23:54:38.320 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:54:43.389 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:54:43.394 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:54:48.229 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:54:48.239 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:54:53.097 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:54:53.100 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:55:07.293 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:55:07.297 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:55:11.966 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+23:55:11.968 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003LoginTest *****
+23:55:26.166 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003LoginTest *****
+20:08:54.299 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing class\SeleniumWebDriver\OpencartV121\grouping.xml
+
+20:09:03.495 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest ****
+20:09:04.107 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:09:04.727 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:09:04.737 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+20:09:06.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+20:09:06.529 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:09:59.974 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest ******
+20:10:04.695 [main] INFO  testCases.TC002_LoginTest - **** finished TC_002_LoginTest ******
+20:12:12.770 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing class\SeleniumWebDriver\OpencartV121\grouping.xml
+
+20:12:37.233 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing class\SeleniumWebDriver\OpencartV121\grouping.xml
+
+20:12:41.345 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest ******
+20:12:43.653 [main] INFO  testCases.TC002_LoginTest - **** finished TC_002_LoginTest ******
+22:49:07.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing class\SeleniumWebDriver\OpencartV121\grouping.xml
+
+22:49:13.259 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest ****
+22:49:13.904 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:49:14.513 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:49:14.515 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+22:49:16.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+22:49:16.129 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:49:19.370 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest ******
+22:49:21.710 [main] INFO  testCases.TC002_LoginTest - **** finished TC_002_LoginTest ******
+22:50:21.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Testing class\SeleniumWebDriver\OpencartV121\grouping.xml
+
+22:50:26.172 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest ****
+22:50:26.704 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+22:50:27.297 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+22:50:27.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+22:50:28.744 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating excepted message
+22:50:28.802 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+22:50:32.080 [main] INFO  testCases.TC002_LoginTest - **** Starting TC_002_LoginTest ******
