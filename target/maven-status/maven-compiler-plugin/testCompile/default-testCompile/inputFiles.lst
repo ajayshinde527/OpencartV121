@@ -7,6 +7,7 @@ D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\testBase\BaseClass
 D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\testCases\TC001_AccountRegistrationTest.java
 D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\testCases\TC002_LoginTest.java
 D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\testCases\TC003_LoginDDT.java
+D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\testCases\TC_004_Search.java
 D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\utilities\DataProviders.java
 D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\utilities\ExcelUtility.java
 D:\Testing class\SeleniumWebDriver\OpencartV121\src\test\java\utilities\ExtentReportManager.java
